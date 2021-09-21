@@ -1,0 +1,15 @@
+/Users/dylanhoward/Prime/Tier3/dotnet/dotnet-hello-world/bin/Debug/net5.0/dotnet-hello-world.deps.json
+/Users/dylanhoward/Prime/Tier3/dotnet/dotnet-hello-world/bin/Debug/net5.0/dotnet-hello-world.runtimeconfig.json
+/Users/dylanhoward/Prime/Tier3/dotnet/dotnet-hello-world/bin/Debug/net5.0/dotnet-hello-world.runtimeconfig.dev.json
+/Users/dylanhoward/Prime/Tier3/dotnet/dotnet-hello-world/bin/Debug/net5.0/dotnet-hello-world.dll
+/Users/dylanhoward/Prime/Tier3/dotnet/dotnet-hello-world/bin/Debug/net5.0/ref/dotnet-hello-world.dll
+/Users/dylanhoward/Prime/Tier3/dotnet/dotnet-hello-world/bin/Debug/net5.0/dotnet-hello-world.pdb
+/Users/dylanhoward/Prime/Tier3/dotnet/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.csproj.AssemblyReference.cache
+/Users/dylanhoward/Prime/Tier3/dotnet/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylanhoward/Prime/Tier3/dotnet/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.AssemblyInfoInputs.cache
+/Users/dylanhoward/Prime/Tier3/dotnet/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.AssemblyInfo.cs
+/Users/dylanhoward/Prime/Tier3/dotnet/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.csproj.CoreCompileInputs.cache
+/Users/dylanhoward/Prime/Tier3/dotnet/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.dll
+/Users/dylanhoward/Prime/Tier3/dotnet/dotnet-hello-world/obj/Debug/net5.0/ref/dotnet-hello-world.dll
+/Users/dylanhoward/Prime/Tier3/dotnet/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.pdb
+/Users/dylanhoward/Prime/Tier3/dotnet/dotnet-hello-world/obj/Debug/net5.0/dotnet-hello-world.genruntimeconfig.cache
