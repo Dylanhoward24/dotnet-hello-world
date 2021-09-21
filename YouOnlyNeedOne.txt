@@ -1,0 +1,17 @@
+public class Kata
+{
+  public static bool Check(object[] a, object x)
+  {
+    foreach (object o in a)
+    {
+      if (o == x)
+      {
+        return true;
+      } else
+      {
+        return false;
+      }
+    }
+    return false;
+  }
+}
